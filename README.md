@@ -16,6 +16,8 @@
 > fix a lot of bugs and
 > add more features like (1 v 1 hotspot based matches) or specific category included like only animals, plants, cars, geography etc.
 >
-> Big Suprise (I am gonna use this to integrate with my new project called study tool) (and I might will abandon the project)
-
-          
+## How to Install
+> Open CMD on windows with admin access and type `git clone https://github.com/mousewanderer/Prototype_Generate_quiz`
+> Then type `pip install randfacts` , `pip install nltk`
+> then run the code
+> ---------------------------------------------------------------------------------------------------------------------
