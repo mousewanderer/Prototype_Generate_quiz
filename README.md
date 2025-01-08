@@ -1,5 +1,5 @@
 ## Quiz Game 
-// Quiz question generator from factual module based on python
+// Quiz question generator from factual module based on python (Last Nalang)
 
 (beta)
  UI:
